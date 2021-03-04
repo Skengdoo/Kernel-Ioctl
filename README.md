@@ -26,3 +26,11 @@ to compile do x64 -> Release
 hope some one else can find this useful 
 
 ( the full source isnt mine i based it off injDrv but rewrote it to work with cheat ) 
+
+
+
+please give me a star you little cutie ;) <3 
+
+
+
+johnn = pro
